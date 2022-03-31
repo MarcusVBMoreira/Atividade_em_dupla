@@ -1,0 +1,30 @@
+    body{
+        background-color: #FFFACD;
+    }
+    .img_topo {
+        width: 45%;
+    }
+    figure{
+        text-align: center;
+    }
+    .img_corpo{
+        width: 50%;
+    }
+    .container{
+        width: 75%;
+        margin: auto;
+    }
+    .titulo{
+        margin: auto;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        font-size: 1.5em;
+    }
+    .container2{
+        width: 75%;
+        margin: auto;
+    }
+    
